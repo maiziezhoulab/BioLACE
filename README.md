@@ -21,7 +21,7 @@ The result is a latent space that preserves tissue geometry while separating bio
 
 ---
 
-## **Key Ideas**
+## **Key Ideas for Marker Similarity**
 
 ### **1. Marker-Guided Similarity**
 We extract cluster-enriched marker genes using Leiden + Wilcoxon testing to form a biological similarity matrix:
@@ -79,9 +79,9 @@ pip install scanpy squidpy torch scikit-learn seaborn matplotlib numpy
 ---
 
 ## **Running Training**
-
+An example command to run training:
 ```bash
-python train_vae.py     --input path/to/data.h5ad     --n_latent 32     --marker_prior curated_marker_list.csv
+python train_vae.py --input path/to/data.h5ad --sim_dir path/to/similarity.npy --high_thresh 0.65 --low_thresh 0.35 --lambda_lap 1e3 --lambda_cont 1e4
 ```
 
 ---
