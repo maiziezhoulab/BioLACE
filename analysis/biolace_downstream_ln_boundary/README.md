@@ -6,6 +6,7 @@ The data comes from the Open-ST paper:
 https://www.cell.com/cell/fulltext/S0092-8674(24)00636-6
 
 ## `boundary_analysis_human_ln.py`.
+### example command: python boundary_analysis_human_ln.py   --h5ad /maiziezhou_lab/Datasets/ST_datasets/humanMetastaticLymphNode/GSE251926_metastatic_lymph_node_3d.h5ad   --backed   --section-col n_section   --section-id 19   --cluster-path /home/qinh3/biolace_downstream/biolace_ln_slice19_leiden_similarity   --tumor-clusters 1   --distance-window-min -200   --distance-window-max 2000   --outdir ./human_ln_boundary
 
 1. "boundary": the distance between the cell and the tumor cluster boundary (negative means inside the tumor, positive means outside the tumor)
 2. "modules score": we align biological functions with specific markers specified in the paper using z-score, the process is as follows.
