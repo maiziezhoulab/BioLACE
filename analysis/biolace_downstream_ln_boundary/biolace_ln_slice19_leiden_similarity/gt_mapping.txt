@@ -1,0 +1,15 @@
+0	CAF
+1	CAM
+2	Cortex_CCL21
+3	Cytotoxic_IFN_signaling
+4	Fibroblasts
+5	Germinal_Center_Plasma_IgM_B_cell
+6	High_Endothelial_Venules
+7	M1_macrophages
+8	Macrophages
+9	Plasma_IgA
+10	Plasma_IgG
+11	T_cell
+12	Tumor
+13	Tumor_Keratin_Pearl
+14	unknown

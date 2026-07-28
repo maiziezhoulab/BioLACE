@@ -1,0 +1,10 @@
+cluster,n_cells,selected_as_cancer_cluster,dominant_annotation_optional_validation_only,dominant_annotation_fraction_optional_validation_only
+1,8487,True,Tumor,0.9059738423471191
+7,5991,False,unknown,0.44333166416291103
+4,4451,False,Plasma_IgG,0.9588856436755785
+3,4428,False,M1_macrophages,0.2540650406504065
+0,3613,False,Plasma_IgG,0.24411846111264876
+6,3350,False,Tumor,0.3662686567164179
+5,3346,False,CAF,0.35415421398685
+2,3019,False,M1_macrophages,0.3703212984431931
+8,2482,False,Germinal_Center_Plasma_IgM_B_cell,0.7191780821917808

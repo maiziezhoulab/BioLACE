@@ -1,0 +1,22 @@
+{
+  "h5ad": "/maiziezhou_lab/Datasets/ST_datasets/humanMetastaticLymphNode/GSE251926_metastatic_lymph_node_3d.h5ad",
+  "section_col": "n_section",
+  "section_id": "19",
+  "cluster_path": "/home/qinh3/lymph_node/script/vae_human_ln_slice19_leiden_similarity",
+  "cluster_column": null,
+  "selected_cancer_clusters": [
+    "1"
+  ],
+  "n_cells": 39167,
+  "n_clusters": 9,
+  "n_selected_cancer_cells": 8487,
+  "distance_window": null,
+  "clip_quantile_if_no_fixed_window": 0.99,
+  "annotation_used_for_boundary": false,
+  "programs": [
+    "cholesterol_biosynthesis",
+    "immune_activation",
+    "proliferation",
+    "hypoxia_stress"
+  ]
+}

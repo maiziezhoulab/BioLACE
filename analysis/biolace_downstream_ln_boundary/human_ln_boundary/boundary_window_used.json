@@ -1,0 +1,5 @@
+{
+  "distance_min": -200.0,
+  "distance_max": 2000.0,
+  "note": "manual asymmetric window [-200, 2000]"
+}

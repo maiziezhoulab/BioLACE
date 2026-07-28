@@ -1,0 +1,11 @@
+{
+  "normalize": true,
+  "log1p": true,
+  "standardize": true,
+  "target_sum": 10000.0,
+  "gene_selection": "variance",
+  "min_cells_gene": 10,
+  "max_genes": 3000,
+  "n_genes_initial": 28943,
+  "n_genes_selected": 3000
+}

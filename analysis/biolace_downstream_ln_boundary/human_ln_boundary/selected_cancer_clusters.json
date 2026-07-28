@@ -1,0 +1,9 @@
+{
+  "selected_clusters": [
+    "1"
+  ],
+  "n_selected_cancer_cells": 8487,
+  "n_other_cells": 30680,
+  "boundary_definition": "negative = inside selected method-predicted cluster(s); positive = outside selected cluster(s)",
+  "annotation_used_for_boundary": false
+}

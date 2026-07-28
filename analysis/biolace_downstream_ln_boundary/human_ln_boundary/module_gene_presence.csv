@@ -1,0 +1,5 @@
+program,n_requested,n_present,present_genes,missing_genes
+cholesterol_biosynthesis,10,10,HMGCR;HMGCS1;DHCR7;DHCR24;SQLE;FDFT1;MSMO1;FDPS;MVD;IDI1,
+immune_activation,8,8,GZMA;GZMB;LYZ;CXCL9;CXCL10;IFNG;PRF1;NKG7,
+proliferation,8,8,MKI67;TOP2A;CENPF;UBE2C;CDK1;RRM2;HMGB2;CDCA5,
+hypoxia_stress,9,9,HIF1A;VEGFA;CA9;SLC2A1;LDHA;BNIP3;NDRG1;MMP9;MMP12,
